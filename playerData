@@ -1,14 +1,2 @@
-{
-"325ebfc62725401c8cd87040ab6cab30" : "ownerCape"
+{ "uuid":"325ebfc62725401c8cd87040ab6cab30", "cape" : "ownerCape", "available" : ["ownerCape","devCape","vetCape"] }
 
-
-
-
-
-
-
-
-
-
-
-}
