@@ -1,8 +1,5 @@
 {
-  "325ebfc6-2725-401c-8cd8-7040ab6cab30" : {
-    "cape" : "ownerCape",
-    "available" : ["ownerCape","devCape","vetCape"]
-  }
+  "325ebfc6-2725-401c-8cd8-7040ab6cab30" : "ownerCape"
 
 
 
